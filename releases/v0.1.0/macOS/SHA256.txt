@@ -1,0 +1,4 @@
+Kathana Beta v0.1.0 — macOS arm64
+
+Filename: Kathana-Beta-v0.1.0-mac-arm64.dmg
+SHA-256: ada4a88e68b8ade52bcbf2be21207bfc5a2215c44fbbf40cf8d25485a40d5e2f
