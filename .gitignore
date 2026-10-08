@@ -5,3 +5,7 @@
 *.bak
 *.backup
 *~
+
+# Desktop installers are distributed as GitHub Release assets
+releases/v0.1.0/Windows/*.exe
+releases/v0.1.0/Linux/*.AppImage

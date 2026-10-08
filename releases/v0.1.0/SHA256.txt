@@ -1,0 +1,14 @@
+Kathana Beta v0.1.0 — Release SHA-256 Checksums
+================================================
+
+macOS arm64
+Filename: Kathana-Beta-v0.1.0-mac-arm64.dmg
+SHA-256: ada4a88e68b8ade52bcbf2be21207bfc5a2215c44fbbf40cf8d25485a40d5e2f
+
+Windows x64
+Filename: Kathana-Beta-v0.1.0-win-x64.exe
+SHA-256: 908516387f621f5e073ad49df7fed2edbfab9fa1e8ecb1286b32367e0fbed7dd
+
+Linux x64
+Filename: Kathana-Beta-v0.1.0-linux-x86_64.AppImage
+SHA-256: 7d7de6adbc933f45ad88b7bfc83ca92f1cc03dcdb52903744113583c7dd829a4
